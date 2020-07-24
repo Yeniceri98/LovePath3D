@@ -1,0 +1,6 @@
+(Change Folder Name According To Asset Name)
+Character Assets Like "Stickman"
+--------------------------------------------
+3D Model (Each asset folder contains only "ONE" model)
+Materials
+Textures

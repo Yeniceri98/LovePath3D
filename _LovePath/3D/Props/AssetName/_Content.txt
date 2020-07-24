@@ -1,0 +1,6 @@
+(Change Folder Name According To Asset Name)
+Prop Assets Like "Tree", "Table", "Building", etc.
+--------------------------------------------
+3D Model (Each asset folder contains only "ONE" model)
+Materials
+Textures
